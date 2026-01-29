@@ -1,2 +1,2 @@
 # ChatBot-FMU
-Projeto de estágio obrigatório 
+Projeto de estágio na instituição FMU (Faculdades Metropolitanas Unidas). Foi realizado em grupo um projeto para desenvolver um ChatBot que respondesse dúvidas sobre a Receita Federal e MEI. Foram utilizadas diversas tecnologias como armazenamento de dados, Naive Bayes, boas práticas de programação dentre outras, das quais fui responsável pela implementação do Flask no código principal.
