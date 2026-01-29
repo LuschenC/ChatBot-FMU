@@ -1,0 +1,984 @@
+{
+  "atendimento": {
+    "texto": "Grande parte dos serviços da Receita Federal podem ser realizados sem sair de casa,Persistindo a necessidade de atendimento presencial só entrar no site do GOV https://www.gov.br/receitafederal/pt-br/canais_atendimento/fale-conosco/presencial",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/canais_atendimento/fale-conosco/presencial",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.gov.br/receitafederal/pt-br/canais_atendimento"
+    ]
+  },
+  "cadastro": {
+    "texto": "Orientação — O Cadastro de Pessoas Físicas (CPF) contém suas informações pessoais, como nome, data de nascimento, endereço, entre outras. Não há idade mínima para ter um CPF e cidadãos brasileiros ou estrangeiros podem se inscrever, morando no Brasil ou no exterior.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/cadastros",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "certidao": {
+    "texto": "A Certidão de Regularidade Fiscal é o documento que comprova a situação fiscal do contribuinte perante a Receita Federal do Brasil (RFB) e a Procuradoria-Geral da Fazenda Nacional (PGFN)",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/certidoes-e-situacao-fiscal",
+      "https://www.gov.br/pt-br/servicos/emitir-certidao-de-regularidade-fiscal",
+      "https://www.gov.br/pt-br/servicos/consultar-certidoes-emitidas-pela-receita-federal-e-ou-procuradoria-geral-da-fazenda-nacional"
+    ]
+  },
+  "cnpj": {
+    "texto": "O Cadastro Nacional da Pessoa Jurídica (CNPJ) identifica empresas perante a Receita Federal. É necessário para emitir notas fiscais, abrir contas bancárias e contratar funcionários.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/cnpj",
+      "https://www.gov.br/pt-br/servicos/inscrever-ou-atualizar-cadastro-nacional-de-pessoas-juridicas",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.gov.br/receitafederal/pt-br/servicos/cadastro/cnpj"
+    ]
+  },
+  "consultas": {
+    "texto": "Maior parte das consultas relacionadas a receita podem ser realizadas diretamente no site .gov segue o link: https://www.gov.br/receitafederal/pt-br",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.gov.br/pt-br/categorias/financas-impostos-e-gestao-publica/outros-servicos/consultas-e-sistemas"
+    ]
+  },
+  "cpf": {
+    "texto": "​O Cadastro de Pessoa Física (CPF) é o documento que identifica o contribuinte perante a Receita Federal. Cada contribuinte pessoa física possui um Cartão CPF, ou simplesmente CPF, que comprova o cadastro. Ele contém um número identificador que não muda.",
+    "links": [
+      "https://www.gov.br/pt-br/categorias/financas-impostos-e-gestao-publica/cpf-cnpj-e-outros-cadastros/cpf",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf",
+      "https://servicos.receita.fazenda.gov.br/servicos/cpf/"
+    ]
+  },
+  "declaracao": {
+    "texto": "O prazo para enviar a declaração do Imposto de Renda geralmente vai de março a maio de cada ano, conforme definido pela Receita Federal. É possível retificar a declaração enviando uma nova versão corrigida pelo programa da Receita Federal.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/download/pgd/dirpf"
+    ]
+  },
+  "ecac": {
+    "texto": "Orientação — A caixa postal é um correio eletrônico dentro do e-CAC onde você recebe mensagens da Receita Federal de forma centralizada, segura e sigilosa. Nela você pode acessar e gerenciar todas as suas mensagens. Você também pode cadastrar até três números de celular e três endereços de e-mail, para ser alertado quando mensagens importantes forem recebidas na sua caixa postal. Podendo ser acessado pelo site da Receita o gov: segue o link: https://www.gov.br/receitafederal/pt-br/canais_atendimento/atendimento-virtual/minha-caixa-postal.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/atendimento-virtual",
+      "https://www.gov.br/receitafederal/pt-br/canais_atendimento/atendimento-virtual",
+      "https://www.gov.br/receitafederal/pt-br",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "fiscalizacao": {
+    "texto": "A Receita realiza auditorias, cruzamento de dados e análises de declarações para garantir o cumprimento das obrigações fiscais. A Receita cruza informações de CPF, CNPJ, empregadores e órgãos públicos para verificar divergências e inconsistências fiscais.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/programas-e-atividades/fiscalizacao",
+      "https://www.gov.br/pt-br/categorias/financas-impostos-e-gestao-publica/sistema-financeiro-e-mercado/regulacao-e-fiscalizacao"
+    ]
+  },
+  "funcao": {
+    "texto": "A principal função da Receita Federal do Brasil (RFB) é a administração tributária e aduaneira da União. Isso envolve a arrecadação e fiscalização dos tributos federais e o controle das atividades de comércio exterior, combatendo ilícitos fiscais.",
+    "links": [
+      "https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/futuro-seguro/receita-federal",
+      "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/institucional/competencias",
+      "https://www.gov.br/receitafederal"
+    ]
+  },
+  "função": {
+    "texto": "A principal função da Receita Federal do Brasil (RFB) é a administração tributária e aduaneira da União. Isso envolve a arrecadação e fiscalização dos tributos federais e o controle das atividades de comércio exterior, combatendo ilícitos fiscais.",
+    "links": [
+      "https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/futuro-seguro/receita-federal",
+      "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/institucional/competencias",
+      "https://www.gov.br/receitafederal"
+    ]
+  },
+  "restituicao": {
+    "texto": "Orientação — A restituição ocorre quando você pagou mais imposto do que o devido. A Receita Federal processa a declaração e deposita o valor na conta bancária informada. Você pode consultar o andamento pelo site da Receita Federal, na seção de Restituição do Imposto de Renda, informando CPF e ano da declaração..",
+    "links": [
+      "https://www.gov.br/pt-br/servicos/obter-restituicao-de-tributos-do-simples-nacional-e-mei",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/restituicao/lotes",
+      "https://www.gov.br/pt-br/servicos/consultar-pedido-de-restituicao-ou-declaracao-de-compensacao-de-tributos-federais",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/restituicao"
+    ]
+  },
+  "regularizacao": {
+    "texto": "Orientação — Os Microempreendedores Individuais que possuem débitos em Dívida Ativa com a União podem aproveitar os benefícios dos acordos de parcelamentos, como: desconto, entrada facilitada e prazo ampliado para pagamento. As modalidades de acordos disponíveis para o MEI, são: Transação de Pequeno Valor do Simples Nacional e Programa de Regularização do Simples Nacional, e são exclusivas para regularização de débitos com o Simples Nacional..",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/regularizacao",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/regularize",
+      "https://www.gov.br/pt-br/servicos/atualizar-cadastro-de-pessoas-fisicas",
+      "https://cav.receita.fazenda.gov.br/autenticacao/login",
+      "https://www.gov.br/receitafederal/pt-br/servicos/regularizacao-de-impostos"
+    ]
+  },
+  "malha": {
+    "texto": "Orientação — Uma pessoa pode entrar pra malha fina se tiver cometido erros na declaração do imposto de renda, faltado com algum documento ou estar sob suspeita de fraude fiscal. Cair na malha pode acarretar em consequências como não receber a restituição do IR, pagar multa e entrar no Cadin. Caso seja apenas um erro de preenchimento é recomendado fazer uma declaração retificadora online. Para verificar tal pendência acesse o site Meu Imposto de Renda ou o portal e-CAC, clique em fazer minha declaração e preencha os dados solicitados..",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/malha-fiscal",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/malha-fiscal/malha"
+    ]
+  },
+  "imposto": {
+    "texto": "O imposto sobre a renda ou imposto sobre o rendimento é um tributo da espécie imposto existente em vários países, que cada contribuinte, seja ele pessoa física ou pessoa jurídica, paga uma certa percentagem de sua renda ao governo",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.gov.br/receitafederal/pt-br/assuntos"
+    ]
+  },
+  "CPF": {
+    "texto": "​O Cadastro de Pessoa Física (CPF) é o documento que identifica o contribuinte perante a Receita Federal. Cada contribuinte pessoa física possui um Cartão CPF, ou simplesmente CPF, que comprova o cadastro. Ele contém um número identificador que não muda.",
+    "links": [
+      "https://www.gov.br/pt-br/categorias/financas-impostos-e-gestao-publica/cpf-cnpj-e-outros-cadastros/cpf",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf",
+      "https://servicos.receita.fazenda.gov.br/servicos/cpf/"
+    ]
+  },
+  "MEI": {
+    "texto": "Orientação — MEI é a sigla para Microempreendedor Individual, uma pessoa autônoma que se formaliza como um pequeno empresário. A formalização oferece benefícios como ter um CNPJ, acesso a serviços bancários, direitos previdenciários (como aposentadoria, auxílio-doença e salário-maternidade) e obrigações fiscais simplificadas através do pagamento de uma guia mensal (DAS)..",
+    "links": [
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes/o-que-e-o-microempreendedor-individual-mei/o-que-e-mei",
+      "https://www.sebrae.com.br/mei"
+    ]
+  },
+  "faturamento": {
+    "texto": "O faturamento de MEI tem limite anual de R$ 81.000,00. Caso ultrapasse esse valor, será necessário migrar para Microempresa. O controle do faturamento pode ser feito através do relatório mensal de receitas brutas.",
+    "links": [
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/relatorio-mensal",
+      "https://sebrae.com.br/sites/PortalSebrae/mei",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+      "https://www.sebrae.com.br/mei"
+    ]
+  },
+  "previdencia": {
+    "texto": "O MEI tem direito a benefícios do INSS, desde que mantenha as contribuições mensais (DAS) em dia. Entre os principais benefícios estão: Aposentadoria por idade; Auxílio-doença e invalidez; Salário-maternidade; Pensão por morte e auxílio-reclusão.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/previdencia-social",
+      "https://sebrae.com.br/sites/PortalSebrae/artigos/conheca-os-beneficios-previdenciarios-aos-que-o-mei-tem-direito,6898e6397fe28810VgnVCM1000001b00320aRCRD",
+      "https://www.gov.br/inss/pt-br",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+      "https://www.sebrae.com.br/mei"
+    ]
+  },
+  "contribuicao": {
+    "texto": "Se o MEI não pagar a contribuição mensal, ele perde direitos previdenciários, acumula multas e juros, e pode ter o CNPJ cancelado após longos períodos de inadimplência. É possível renegociar ou parcelar os débitos diretamente pelo Portal do Simples Nacional ou pelo e-CAC da Receita Federal.",
+    "links": [
+      "https://sebrae.com.br/sites/PortalSebrae/artigos/atraso-no-pagamento-do-das-mei-e-consequencias-para-o-empreendedor,66bfd7fbd25f2810VgnVCM100000d701210aRCRD",
+      "https://www.gov.br/pt-br/servicos/parcelar-imposto-mei",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+      "https://www.sebrae.com.br/mei"
+    ]
+  },
+  "prazo": {
+    "texto": "O prazo para entrega da declaração de 2025 (ano-calendário 2024) vai de 17 de março até 30 de maio de 2025. Se o contribuinte não entregar dentro do prazo, ele fica sujeito a multa mínima de R$ 165,74, podendo chegar a 20% do imposto devido. Além da multa, o CPF fica com o status",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/prazo",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "documentacao": {
+    "texto": "Para a Declaração do Imposto de Renda, precisa: Documentos pessoais: CPF, título de eleitor e dados bancários. Comprovantes de rendimentos: informes de salário, pró-labore, aposentadoria, aluguéis e aplicações financeiras. Comprovantes de bens e dívidas: escritura de imóveis, documentos de veículos, financiamentos, saldos bancários. Comprovantes de despesas dedutíveis: saúde, educação, previdência e doações.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/documentos",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "despesas": {
+    "texto": "As despesas dedutíveis do Imposto de Renda incluem gastos com saúde, educação e previdência, desde que devidamente comprovados.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/despesas-dedutiveis"
+    ]
+  },
+  "divida": {
+    "texto": "Sim, é possível parcelar dívidas fiscais diretamente com a Receita Federal do Brasil (RFB). O processo é feito, em sua maioria, de forma online, através do Portal e-CAC (Centro Virtual de Atendimento ao Contribuinte), para débitos que ainda não foram inscritos na Dívida Ativa da União.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/parcelamentos",
+      "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+      "https://www.gov.br/receitafederal/pt-br",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "exterior": {
+    "texto": "Orientação — O limite de isenção para compras internacionais feitas por pessoa física é de até US$ 50 (cinquenta dólares), quando a remessa é entre pessoas físicas e enviada pelos Correios ou transportadora. Para compras em sites estrangeiros, o valor não é isento — mas plataformas participantes do programa Remessa Conforme (como Shein, AliExpress e Amazon) têm isenção do imposto de importação para compras de até US$ 50, desde que os tributos estaduais (ICMS) sejam recolhidos corretamente..",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior",
+      "https://www.gov.br/receitafederal/pt-br",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "parcelamentos": {
+    "texto": "O parcelamento de dívidas fiscais diretamente com a Receita Federal pode ser feito pelo Portal e-CAC, na área",
+    "links": [
+      "https://www.gov.br/pt-br/servicos/parcelar-imposto",
+      "https://www8.receita.fazenda.gov.br/SimplesNacional/Servicos/Grupo.aspx?grp=19",
+      "https://www.gov.br/receitafederal/pt-br/servicos/regularizacao-de-impostos/consultar-parcelamentos",
+      "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais"
+    ]
+  },
+  "comprovante": {
+    "texto": "Você pode emitir seus comprovantes fiscais diretamente nos portais do Governo Federal: Comprovante de inscrição no CNPJ e 2ª via do CPF: acessíveis no site da Receita Federal. Comprovante de pagamento de tributos (DARF ou DAS): disponível no Portal e-CAC na seção",
+    "links": [
+      "https://solucoes.receita.fazenda.gov.br/servicos/cnpjreva/cnpjreva_solicitacao.asp",
+      "https://servicos.receita.fazenda.gov.br/servicos/cpf/impressaocomprovante/consultaimpressao.asp",
+      "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "servicos": {
+    "texto": "Orientação — O Portal de Serviços Digitais da Receita Federal oferece acesso a diversos serviços online, como consulta de CPF, CNPJ, declarações e parcelamentos..",
+    "links": [
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/quero-ser-mei/atividades-permitidas",
+      "https://www.gov.br/receitafederal/pt-br"
+    ]
+  },
+  "tributacao": {
+    "texto": "Prazo para pagar tributos via DARF: deve ser pago na data de vencimento indicada no DARF. Tributos incluídos no DAS do MEI: inclui INSS, ISS e/ou ICMS, dependendo da atividade. IRPJ no lucro presumido: calcula-se aplicando percentuais de presunção sobre a receita bruta e depois a alíquota de IRPJ/CSLL sobre o lucro presumido.",
+    "links": [
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-o-mei/pagamento-de-contribuicao-mensal",
+      "https://www.gov.br/pt-br/servicos/emitir-darf-para-pagamento-de-tributos-federais",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "reembolso": {
+    "texto": "Para solicitar a restituição de tributos pagos indevidamente, você deve abrir um pedido de restituição ou ressarcimento junto à Receita Federal, indicando o valor, o tributo e os documentos comprobatórios. A solicitação pode ser feita pelo Portal e-CAC ou pelo sistema específico de restituição disponível no site da Receita.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/restituicao-e-compensacao",
+      "https://www.gov.br/pt-br/servicos/obter-restituicao-de-tributos-do-simples-nacional-e-mei",
+      "https://www.gov.br/pt-br/servicos/consultar-pedido-de-restituicao-ou-declaracao-de-compensacao-de-tributos-federais",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "obrigacoes": {
+    "texto": "A ECF (Escrituração Contábil Fiscal) é obrigatória para todas as pessoas jurídicas tributadas pelo Lucro Real, Lucro Presumido ou arbitrado, exceto MEI e microempresas optantes pelo Simples Nacional. Ela deve detalhar receitas, despesas, tributos e apuração do IRPJ e CSLL.",
+    "links": [
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/quero-ser-mei/direitos-e-obrigacoes",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/quem",
+      "https://www.gov.br/pt-br/servicos/entregar-escrituracao-contabil-fiscal",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+      "https://www.sebrae.com.br/mei"
+    ]
+  },
+  "residencia": {
+    "texto": "Orientação — Solicite o Atestado de Residência Fiscal no Brasil ou entregue o Atestado de Residência Fiscal no Exterior.\nO Atestado de Residência Fiscal no Brasil é cadastrado por residente no Brasil (Pessoa Física ou Pessoa Jurídica) que prestou serviços e recebeu rendimentos no exterior e pretende ser tributado no Brasil. O Atestado de Residência Fiscal no Exterior é o serviço destinado a Pessoa Física ou Pessoa Jurídica (fonte pagadora) que contratou serviço de uma pessoa estrangeira e não reteve o imposto devido. A entrega do atestado de residência fiscal no exterior ou o impresso oficial estrangeiro preenchido e assinado pelo país onde reside o beneficiário do pagamento deve ser feita à fonte pagadora brasileira, que enviará uma cópia desse documento à Receita Federal..",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/residencia-fiscal",
+      "https://www.gov.br/pt-br/servicos/obter-atestado-de-residencia-fiscal",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "fiscal": {
+    "texto": "Orientação — O MEI não precisa de inscrição estadual ou municipal para exercer atividades permitidas, pois o CNPJ já garante a formalização. Porém, para atividades específicas, como comércio de produtos sujeitos a ICMS ou serviços regulados, alguns estados ou municípios podem exigir inscrição adicional..",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://sebrae.com.br/sites/PortalSebrae/mei"
+    ]
+  },
+  "tributação": {
+    "texto": "Prazo para pagar tributos via DARF: deve ser pago na data de vencimento indicada no DARF. Tributos incluídos no DAS do MEI: inclui INSS, ISS e/ou ICMS, dependendo da atividade. IRPJ no lucro presumido: calcula-se aplicando percentuais de presunção sobre a receita bruta e depois a alíquota de IRPJ/CSLL sobre o lucro presumido.",
+    "links": [
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-o-mei/pagamento-de-contribuicao-mensal",
+      "https://www.gov.br/pt-br/servicos/emitir-darf-para-pagamento-de-tributos-federais",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "irregular": {
+    "texto": "Orientação — Não cumprir os prazos da Receita Federal pode gerar multa, pendência no CPF e outras limitações, como dificuldade para obter crédito ou realizar operações bancárias. No caso do MEI, deixar de apresentar a DASN-Simei por um período superior à 90 dias desde o vencimento pode causar o cancelamento da inscrição do CNPJ, tornando o mesmo inapto e o impedindo de emitir notas fiscais, cancelando seu alvarás e aplicando as dívidas para o nome do microempreendedor, tornando o CPF.",
+    "links": [
+      "https://servicos.receita.fazenda.gov.br/servicos/cpf/consultasituacao/consultapublica.asp",
+      "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/perguntas-frequentes/imposto-de-renda/dirpf",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "consulta": {
+    "texto": "Orientação — As consultas podem ser realizadas através do portal da Receita Federal, onde é possível verificar situação do CPF, CNPJ, restituições, débitos e declarações. O acesso é feito pelo e-CAC usando conta Gov.br ou certificado digital..",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/canais_atendimento/atendimento-virtual",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "declaração": {
+    "texto": "O prazo para enviar a declaração do Imposto de Renda geralmente vai de março a maio de cada ano, conforme definido pela Receita Federal. É possível retificar a declaração enviando uma nova versão corrigida pelo programa da Receita Federal.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/download/pgd/dirpf"
+    ]
+  },
+  "diferenca": {
+    "texto": "a diferença entre CPF e CNPJ é que o CPF (Cadastro de Pessoas Físicas) é um número de identificação para indivíduos, enquanto o CNPJ (Cadastro Nacional da Pessoa Jurídica) é um número de identificação para empresas e outras entidades legais.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.sefaz.al.gov.br/noticias/item/3640-diferencie-competencias-da-receita-estadual-e-da-receita-federal",
+      "https://www.gov.br/receitafederal/pt-br",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf",
+      "https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj"
+    ]
+  },
+  "dados": {
+    "texto": "Mantenha seus dados (nome, endereço, telefone) atualizados no Gov.br para evitar falhas de comunicação. Atualizações do CPF são feitas pelos serviços oficiais do Gov.br.",
+    "links": [
+      "https://www.gov.br/pt-br/servicos/atualizar-cadastro-de-pessoas-fisicas",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+      "https://www.sebrae.com.br/mei"
+    ]
+  },
+  "qual o caminho, consulta": {
+    "texto": "Atenção — Categoria “qual o caminho, consulta” cadastrada, porém ainda sem conteúdo. Inclua um resumo orientativo e pelo menos um link oficial (gov.br/Receita ou Sebrae).",
+    "links": []
+  },
+  "onde obtenho essa informacao, consulta": {
+    "texto": "Atenção — Categoria “onde obtenho essa informacao, consulta” cadastrada, porém ainda sem conteúdo. Inclua um resumo orientativo e pelo menos um link oficial (gov.br/Receita ou Sebrae).",
+    "links": []
+  },
+  "receita": {
+    "texto": "A Receita Federal do Brasil é o órgão responsável pela administração dos tributos federais, fiscalização de contribuintes, controle da arrecadação e gerenciamento do CPF e CNPJ. Também atua no combate à sonegação fiscal e crimes tributários.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "agendamento": {
+    "texto": "Orientação — Para atendimento presencial na Receita (quando necessário) faça o agendamento pelo sistema SAGA/Agendamento disponível nos serviços da Receita..",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/atendimento/agendamento",
+      "https://servicos.receita.fazenda.gov.br/servicos/saga/agendamento/",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/atendimento"
+    ]
+  },
+  "pix": {
+    "texto": "A Receita já incorporou o Pix em processos de arrecadação: DARF e outros documentos podem conter QR Code para pagamento via Pix. Use o canal oficial ou o seu banco para pagar com segurança.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2023/receita-federal-aceita-pagamentos-via-pix",
+      "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2020/12/tributos-federais-poderao-ser-pagos-utilizando-o-pix",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/pix",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "obrigacao": {
+    "texto": "Orientação — Todos os anos, a Receita Federal publica uma Instrução Normativa com as regras e os procedimentos para entrega da declaração do imposto de renda, portanto trata-se de uma lista extensa, mas que geralmente se resume a possuir rendimentos tributáveis superiores a um certo valor definido pelo governo, realizar vendas de ações na bolsa de valores ou possuir propriedades/bens acima de um certo valor. Caso deseje posso informar quem é isento de declarar o IRPF. O fato de ser MEI não obriga a pessoa física a fazer essa declaração, porém as atividades do MEI ou das empresas geram para as pessoas físicas rendimentos que podem ser classificados como tributáveis, isentos ou não tributáveis, recomendo verificar as obrigações do MEI no site do governo caso essa seja sua dúvida..",
+    "links": [
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/quero-ser-mei/direitos-e-obrigacoes",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/quem",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2024/05",
+      "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/perguntas-frequentes/imposto-de-renda/dirpf",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "aplicativo": {
+    "texto": "O app da Receita e o app Meu Imposto de Renda permitem consultar serviços, acompanhar restituição e, em alguns casos, enviar declarações. Baixe pelos canais oficiais (Google Play / App Store).",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/aplicativo",
+      "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/download",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "pendencias": {
+    "texto": "Pendências aparecem no e‑CAC e no portal de serviços. Ao identificar uma pendência, verifique o motivo e siga as orientações para regularização (pagamento, entrega de documentos ou retificação).",
+    "links": [
+      "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+      "https://servicos.receitafederal.gov.br/",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/conta-gov-br-e-acesso-ao-e-cac"
+    ]
+  },
+  "pagamento": {
+    "texto": "Para realizar o pagamento do Imposto de Renda, é necessário preencher o DARF (Documento de Arrecadação de Receitas Federais). Isso pode ser feito pelo próprio programa do IRPF que pode ser instalado em um computador, mas também por outros canais disponíveis no site do governo. Além disso, é sim possível parcelar esse pagamento, O parcelamento pode ser feito em até 60 (sessenta) vezes, mas a parcela mínima para pessoas físicas é de R$200,00 e para pessoas jurídicas, ou pessoas físicas equiparadas a jurídicas, R$500,00.",
+    "links": [
+      "https://www.gov.br/pt-br/servicos/emitir-darf-para-pagamento-de-tributos-federais",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/pagamento-de-contribuicao-mensal",
+      "https://sicalc.receita.economia.gov.br/sicalc/principal"
+    ]
+  },
+  "entregar": {
+    "texto": "A entrega da declaração pode ser feita pelo Programa Gerador (PGD), pela plataforma online ou pelo aplicativo. Confirme o prazo anual no site da Receita para evitar multas.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.gov.br/pt-br/servicos/declarar-meu-imposto-de-renda",
+      "https://www.gov.br/receitafederal/pt-br"
+    ]
+  },
+  "documentos": {
+    "texto": "Documentos pessoais, comprovantes de rendimentos, recibos de despesas dedutíveis, informes de bancos e investimentos. CPF, comprovantes de rendimentos, recibos de despesas dedutíveis e documentos de bens e dívidas são necessários para a declaração.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/documentos",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.gov.br/receitafederal/pt-br"
+    ]
+  },
+  "correcao": {
+    "texto": "Para corrigir erros, envie uma declaração retificadora pelo mesmo programa/plataforma, escolhendo o ano correto e marcando a opção de retificação.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/preenchimento/retificadora"
+    ]
+  },
+  "obrigação": {
+    "texto": "Orientação — Todos os anos, a Receita Federal publica uma Instrução Normativa com as regras e os procedimentos para entrega da declaração do imposto de renda, portanto trata-se de uma lista extensa, mas que geralmente se resume a possuir rendimentos tributáveis superiores a um certo valor definido pelo governo, realizar vendas de ações na bolsa de valores ou possuir propriedades/bens acima de um certo valor. Caso deseje posso informar quem é isento de declarar o IRPF. O fato de ser MEI não obriga a pessoa física a fazer essa declaração, porém as atividades do MEI ou das empresas geram para as pessoas físicas rendimentos que podem ser classificados como tributáveis, isentos ou não tributáveis, recomendo verificar as obrigações do MEI no site do governo caso essa seja sua dúvida..",
+    "links": [
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/quero-ser-mei/direitos-e-obrigacoes",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/quem",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2024/05",
+      "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/perguntas-frequentes/imposto-de-renda/dirpf",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "Fiscalização": {
+    "texto": "A Receita realiza auditorias, cruzamento de dados e análises de declarações para garantir o cumprimento das obrigações fiscais. A Receita cruza informações de CPF, CNPJ, empregadores e órgãos públicos para verificar divergências e inconsistências fiscais.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/programas-e-atividades/fiscalizacao",
+      "https://www.gov.br/pt-br/categorias/financas-impostos-e-gestao-publica/sistema-financeiro-e-mercado/regulacao-e-fiscalizacao"
+    ]
+  },
+  "Comprovantes": {
+    "texto": "O comprovante de pagamento de tributos pode ser emitido pelo site da Receita Federal.",
+    "links": [
+      "https://www.gov.br/pt-br/servicos/consultar-pagamentos-de-tributos-federais",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+      "https://www.sebrae.com.br/mei"
+    ]
+  },
+  "Instituição": {
+    "texto": "Orientação — A Receita Federal do Brasil trata-se de uma instituição governamental responsável por fiscalizar e controlar a arrecadação dos tributos federais como impostos, taxas e contribuições que a população e empresas precisam pagar para o governo de acordo com as leis tributárias do país. O dinheiro arrecadado é convertido em serviços públicos, como saúde, educação, segurança e infraestrutura. Posso te ajudar com mais informações sobre esse assunto, caso alguma dúvida persista consulte o site da Receita..",
+    "links": [
+      "https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/futuro-seguro/receita-federal#:~:text=A%20Receita%20Federal%20é%20um,%2C%20educação%2C%20segurança%20e%20infraestrutura",
+      "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/institucional",
+      "https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/futuro-seguro/receita-federal#:~:text=A%20Receita%20Federal%20%C3%A9%20um,%2C%20educa%C3%A7%C3%A3o%2C%20seguran%C3%A7a%20e%20infraestrutura.",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "Declaração": {
+    "texto": "O prazo para enviar a declaração do Imposto de Renda geralmente vai de março a maio de cada ano, conforme definido pela Receita Federal. É possível retificar a declaração enviando uma nova versão corrigida pelo programa da Receita Federal.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/download/pgd/dirpf"
+    ]
+  },
+  "Imposto": {
+    "texto": "O imposto sobre a renda ou imposto sobre o rendimento é um tributo da espécie imposto existente em vários países, que cada contribuinte, seja ele pessoa física ou pessoa jurídica, paga uma certa percentagem de sua renda ao governo",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.gov.br/receitafederal/pt-br/assuntos"
+    ]
+  },
+  "Documentos": {
+    "texto": "Documentos pessoais, comprovantes de rendimentos, recibos de despesas dedutíveis, informes de bancos e investimentos. CPF, comprovantes de rendimentos, recibos de despesas dedutíveis e documentos de bens e dívidas são necessários para a declaração.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/documentos",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.gov.br/receitafederal/pt-br"
+    ]
+  },
+  "Restituição": {
+    "texto": "Orientação — A restituição ocorre quando você pagou mais imposto do que o devido. A Receita Federal processa a declaração e deposita o valor na conta bancária informada. Você pode consultar o andamento pelo site da Receita Federal, na seção de Restituição do Imposto de Renda, informando CPF e ano da declaração..",
+    "links": [
+      "https://www.gov.br/pt-br/servicos/obter-restituicao-de-tributos-do-simples-nacional-e-mei",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/restituicao/lotes",
+      "https://www.gov.br/pt-br/servicos/consultar-pedido-de-restituicao-ou-declaracao-de-compensacao-de-tributos-federais",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/restituicao"
+    ]
+  },
+  "Atendimento": {
+    "texto": "Grande parte dos serviços da Receita Federal podem ser realizados sem sair de casa,Persistindo a necessidade de atendimento presencial só entrar no site do GOV https://www.gov.br/receitafederal/pt-br/canais_atendimento/fale-conosco/presencial",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/canais_atendimento/fale-conosco/presencial",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.gov.br/receitafederal/pt-br/canais_atendimento"
+    ]
+  },
+  "Diferença": {
+    "texto": "a diferença entre CPF e CNPJ é que o CPF (Cadastro de Pessoas Físicas) é um número de identificação para indivíduos, enquanto o CNPJ (Cadastro Nacional da Pessoa Jurídica) é um número de identificação para empresas e outras entidades legais.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.sefaz.al.gov.br/noticias/item/3640-diferencie-competencias-da-receita-estadual-e-da-receita-federal",
+      "https://www.gov.br/receitafederal/pt-br",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf",
+      "https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj"
+    ]
+  },
+  "Malha": {
+    "texto": "Orientação — Uma pessoa pode entrar pra malha fina se tiver cometido erros na declaração do imposto de renda, faltado com algum documento ou estar sob suspeita de fraude fiscal. Cair na malha pode acarretar em consequências como não receber a restituição do IR, pagar multa e entrar no Cadin. Caso seja apenas um erro de preenchimento é recomendado fazer uma declaração retificadora online. Para verificar tal pendência acesse o site Meu Imposto de Renda ou o portal e-CAC, clique em fazer minha declaração e preencha os dados solicitados..",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/malha-fiscal",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/malha-fiscal/malha"
+    ]
+  },
+  "CNPJ": {
+    "texto": "O Cadastro Nacional da Pessoa Jurídica (CNPJ) identifica empresas perante a Receita Federal. É necessário para emitir notas fiscais, abrir contas bancárias e contratar funcionários.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/cnpj",
+      "https://www.gov.br/pt-br/servicos/inscrever-ou-atualizar-cadastro-nacional-de-pessoas-juridicas",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.gov.br/receitafederal/pt-br/servicos/cadastro/cnpj"
+    ]
+  },
+  "Certificado": {
+    "texto": "O Certificado Digital é um documento eletrônico que serve para identificar pessoas ou empresas no meio digital, garantindo a autenticidade e a integridade das informações.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/atendimento-virtual/certificado-digital",
+      "https://www.gov.br/pt-br/servicos/obter-certificacao-digital",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/senhas-e-procuracoes/senhas/certificados-digitais"
+    ]
+  },
+  "DCTF": {
+    "texto": "O prazo para entrega da DCTF (Declaração de Débitos e Créditos Tributários Federais) varia conforme o tipo de contribuinte e o período de apuração. Geralmente, a DCTF deve ser entregue mensalmente até o 15º dia útil do segundo mês subsequente ao mês de referência.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/declaracoes-e-demonstrativos/dctf",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/declaracoes-e-demonstrativos/dctf/orientacoes-gerais",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2024/dezembro/publicada-instrucao-normativa-que-institui-o-modulo-de-inclusao-de-tributos-2013-mit-na-dctfweb-e-substitui-a-dctf",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2025/fevereiro/contribuintes-ganham-mais-tempo-para-entregar-a-dctfweb",
+      "https://www.gov.br/receitafederal/pt-br",
+      "https://www.gov.br/pt-br/servicos/declarar-debitos-e-creditos-tributarios-federais"
+    ]
+  },
+  "Débito": {
+    "texto": "O parcelamento de débitos federais pode ser feito por meio de diferentes modalidades, principalmente através do Portal e-CAC da Receita Federal e do portal Regularize da Procuradoria-Geral da Fazenda Nacional (PGFN). As opções são Parcelamento Simplificado/Ordinário, Parcelamento de Dívida Ativa da União (DAU), Transação Tributária, Parcelamentos Especiais e Parcelamentos Específicos.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/parcelamentos",
+      "https://www.gov.br/pt-br/servicos/parcelar-debitos-inscritos-em-divida-ativa-da-uniao-acima-quinze-milhoes-reais",
+      "https://www.gov.br/receitafederal/pt-br",
+      "https://www.gov.br/pt-br/servicos/parcelar-imposto"
+    ]
+  },
+  "Simples": {
+    "texto": "O Simples Nacional é um regime tributário simplificado criado para micro e pequenas empresas. Ele unifica o pagamento de vários impostos em uma única guia mensal, facilitando a gestão tributária do negócio.",
+    "links": [
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-o-mei/simples-nacional",
+      "https://www.gov.br/pt-br/servicos/optar-pelo-simples-nacional",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/simples-nacional",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+      "https://www.sebrae.com.br/mei"
+    ]
+  },
+  "Penalidades": {
+    "texto": "Orientação — O não cumprimento das obrigações fiscais, como atraso na entrega de declarações ou no pagamento de tributos, pode gerar multas e juros..",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/Infracoes_e_penalidades",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/tributos-e-contribuicoes"
+    ]
+  },
+  "Importação": {
+    "texto": "A Aduana brasileira comercio de exterior está ao seu lado. Siga os passos do roteiro para que sua empresa fique pronta para importar ou exportar,",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/exportacao-portal-unico/infracoes-e-penalidades",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/subportais-aduana-e-comercio-exterior/importacao",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/subportais-aduana-e-comercio-exterior/intervenientes/como-importar-ou-exportar"
+    ]
+  },
+  "DARF": {
+    "texto": "O DARF é a guia usada para pagar tributos federais e pode ser emitida pelo site da Receita Federal.",
+    "links": [
+      "https://www.gov.br/pt-br/servicos/emitir-darf-para-pagamento-de-tributos-federais",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "Carne": {
+    "texto": "Orientação — O Carnê-leão é um recolhimento mensal obrigatório do Imposto de Renda (IR) para autônomos e outros profissionais que recebem rendimentos de pessoas físicas ou do exterior. Na prática, funciona como uma antecipação do IR, em que o próprio contribuinte deve preencher um formulário online, calcular o imposto e gerar um Documento de Arrecadação de Receitas Federais (DARF) para pagamento..",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/carne-leao",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/pagamento/carne-leao",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.gov.br/pt-br/servicos/apurar-carne-leao"
+    ]
+  },
+  "Receita": {
+    "texto": "A Receita Federal do Brasil é o órgão responsável pela administração dos tributos federais, fiscalização de contribuintes, controle da arrecadação e gerenciamento do CPF e CNPJ. Também atua no combate à sonegação fiscal e crimes tributários.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "Fiscais": {
+    "texto": "Orientação — Documentos fiscais, como notas eletrônicas e declarações, registram operações econômicas e são exigidos para comprovação tributária..",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria"
+    ]
+  },
+  "Declarar": {
+    "texto": "A declaração do Imposto de Renda é feita pelos contribuintes obrigados, informando rendimentos, bens e tributos pagos.",
+    "links": [
+      "https://www.gov.br/pt-br/servicos/declarar-meu-imposto-de-renda"
+    ]
+  },
+  "Parcelamento": {
+    "texto": "O parcelamento de débitos tributários permite quitar dívidas de forma parcelada com juros e multa. O processo é feito pelo Portal e-CAC para débitos com a Receita Federal ou pelo REGULARIZE para dívidas já inscritas na PGFN.",
+    "links": [
+      "https://www.gov.br/pt-br/servicos/parcelar-imposto",
+      "https://www8.receita.fazenda.gov.br/SimplesNacional/Servicos/Grupo.aspx?grp=19",
+      "https://www.gov.br/receitafederal/pt-br/servicos/regularizacao-de-impostos/consultar-parcelamentos",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/parcelamento",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "Mei": {
+    "texto": "Orientação — MEI é a sigla para Microempreendedor Individual, uma pessoa autônoma que se formaliza como um pequeno empresário. A formalização oferece benefícios como ter um CNPJ, acesso a serviços bancários, direitos previdenciários (como aposentadoria, auxílio-doença e salário-maternidade) e obrigações fiscais simplificadas através do pagamento de uma guia mensal (DAS)..",
+    "links": [
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes/o-que-e-o-microempreendedor-individual-mei/o-que-e-mei",
+      "https://www.sebrae.com.br/mei"
+    ]
+  },
+  "Funcionarios": {
+    "texto": "Orientação — Quais direitos o MEI tem na Previdência Social (aposentadoria, auxílio, etc.).",
+    "links": [
+      "https://www.gov.br/trabalho-e-emprego"
+    ]
+  },
+  "Trabalhar": {
+    "texto": "Orientação — Trabalhar de forma formalizada garante acesso a direitos trabalhistas e previdenciários. Autônomos e pequenos empreendedores podem se registrar como MEI..",
+    "links": [
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-o-mei/contratacao-de-empregado",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes/o-que-e-o-microempreendedor-individual-mei/e-possivel-solicitar-a-inscricao",
+      "https://sebrae.com.br/sites/PortalSebrae/artigos/mei-pode-ter-carteira-assinada%2C7d87cfdb34542810VgnVCM100000d701210aRCRD",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor"
+    ]
+  },
+  "Seguro": {
+    "texto": "Informações sobre o seguro-desemprego e outros seguros aplicáveis (se houver).",
+    "links": [
+      "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/beneficios-e-abono/seguro-desemprego",
+      "https://www.gov.br/pt-br/servicos/sistema-de-consulta-de-seguros",
+      "https://www.gov.br/trabalho-e-emprego"
+    ]
+  },
+  "Salario": {
+    "texto": "Orientação — O MEI precisa pagar imposto de renda ou só a taxa mensal (DAS).",
+    "links": [
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor"
+    ]
+  },
+  "Cancelado": {
+    "texto": "Sim, o Mei pode ser cancelado, seja pelo próprio empreendedor através do portal oficial ou automaticamente pela Receita Federal após um período de inatividade fiscal .",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/cadastros",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/baixa-de-mei",
+      "https://sebrae.com.br/sites/PortalSebrae/artigos/tire-suas-duvidas-sobre-o-cancelamento-do-cnpj-do-mei-omisso%2C130421f9d7284510VgnVCM1000004c00210aRCRD",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+      "https://www.sebrae.com.br/mei",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/cadastros/cadastro-de-pessoas-fisicas-cpf"
+    ]
+  },
+  "Alteração": {
+    "texto": "A alteração de dados cadastrais do MEI pode ser feita gratuitamente pelo Portal do Empreendedor. É possível alterar endereço, nome fantasia, telefone, e-mail, ocupação e forma de atuação. Após a alteração, um novo CCMEI é gerado automaticamente.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/cadastros",
+      "https://www.gov.br/pt-br/servicos/inscrever-ou-atualizar-cadastro-nacional-de-pessoas-juridicas",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+      "https://www.sebrae.com.br/mei"
+    ]
+  },
+  "Cobrança": {
+    "texto": "Orientação — A cobrança de débitos tributários é realizada pela Receita Federal ou pela Procuradoria-Geral da Fazenda Nacional quando há dívidas inscritas em Dívida Ativa. A falta de pagamento pode resultar em multas, juros, protesto e até mesmo ações judiciais de execução fiscal..",
+    "links": [
+      "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda.",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "Multa": {
+    "texto": "Caso a DIRPF seja declarada em atraso, é aplicada uma multa mínima de R$165,74, mesmo que tenha sido efetuado pagamento dentro do prazo, após isso é aplicada a penalidade de 1% por mês de atraso sobre o valor do imposto de renda, chegando ao máximo de 20%",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/multa",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/declaracao-anual-de-faturamento",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "Processo": {
+    "texto": "Orientação — Consulte o andamento de processos digitais na Receita Federal do Brasil (RFB), no Conselho Administrativo de Recursos Fiscais (CARF) e na Procuradoria-Geral da Fazenda Nacional (PGFN).\nVocê pode consultar os processos nos quais é parte interessada ou os processos das pessoas que você representa legalmente..",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/processos",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/processos-digitais",
+      "https://www.gov.br/pt-br/servicos/consultar-processo",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "Intimação": {
+    "texto": "Devido a uma falta de documentos atualizados, ter sido adicionado a malha, erros de declaração ou outros tipos de problemas, a Receita Federal pode enviar uma intimação para uma pessoa ou empresa buscando esclarecer essas discrepâncias. Caso ocorra o intimado deve se dirigir ao site, consultar sua situação e entregar os documentos que forem solicitados.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/malha-fiscal/intimacao",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/cobrancas-e-intimacoes",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "Chamado": {
+    "texto": "Chamados e solicitações de atendimento podem ser abertos online por meio do e-CAC ou do Fale Conosco da Receita Federal.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/canais_atendimento/fale-conosco",
+      "https://sebrae.com.br/sites/PortalSebrae/faleconosco",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://sebrae.com.br/sites/PortalSebrae/mei",
+      "https://www.gov.br/receitafederal/pt-br/canais_atendimento/fale-conosco/cidadao/canais-de-atendimento-a-distancia"
+    ]
+  },
+  "Telefone": {
+    "texto": "A Receita Federal não possui um número exclusivo para atendimento ao cidadão, entretanto, pode-se usar outros canais de atendimento para esclarecer dúvidas sobre tributos e serviços da Receita. E para assuntos sobre MEI, o Sebrae oferece o telefone 0800 570 0800.",
+    "links": [
+      "https://www.serpro.gov.br/menu/noticias/noticias-antigas/novo-telefone-da-receita#:~:text=A%20partir%20de%20hoje%20(11,cobrada%20tarifa%20de%20liga%C3%A7%C3%A3o%20local.",
+      "https://www.gov.br/receitafederal/pt-br/canais_atendimento",
+      "https://cav.receita.fazenda.gov.br/ecac/",
+      "https://sebrae.com.br/sites/PortalSebrae/ufs/sp/institucional/0800",
+      "https://www.gov.br/receitafederal/pt-br/canais_atendimento/fale-conosco/cidadao/canais-de-atendimento-a-distancia"
+    ]
+  },
+  "Gov": {
+    "texto": "Orientação — É possível resolver uma ampla variedade de pendências com o governo federal através do portal e do aplicativo Gov.br. A plataforma funciona como uma porta de entrada para diversos serviços digitais de órgãos como a Receita Federal, o INSS e o Ministério da Economia..",
+    "links": [
+      "https://www.gov.br/pt-br/servicos/solicitar-atendimento-conta-gov.br",
+      "https://www.gov.br",
+      "https://www.gov.br/pt-br"
+    ]
+  },
+  "Calendário": {
+    "texto": "O calendário oficial da Receita Federal é chamado de Agenda Tributária e está disponível no Portal Gov.br, o site oficial do Governo Federal. Ele contém todas as datas importantes relacionadas a obrigações fiscais, prazos de declarações e pagamentos de tributos.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/calendario-de-restituicao",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "e-CAc": {
+    "texto": "O sistema e‑CAC (Centro de Atendimento Virtual da Receita Federal) permite ao contribuinte consultar pendências, emitir DARF, parcelar débitos, autorizar procuração, entre outros serviços.",
+    "links": [
+      "https://www.gov.br/pt-br/servicos/portal‑e‑cac"
+    ]
+  },
+  "Tributos": {
+    "texto": "Orientação — Os tributos federais, estaduais e municipais são valores cobrados pelo poder público para custear serviços e políticas públicas. No âmbito federal, a Receita Federal é responsável pela administração de tributos como IRPF, IRPJ, IPI, PIS e COFINS..",
+    "links": [
+      "https://www8.receita.fazenda.gov.br/SimplesNacional/Noticias/NoticiaCompleta.aspx?id=a06b0e4d-e060-4b92-8989-9c77d922032a",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/pagamentos-e-parcelamentos?",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/tributos",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "Comprovante": {
+    "texto": "Você pode emitir seus comprovantes fiscais diretamente nos portais do Governo Federal: Comprovante de inscrição no CNPJ e 2ª via do CPF: acessíveis no site da Receita Federal. Comprovante de pagamento de tributos (DARF ou DAS): disponível no Portal e-CAC na seção",
+    "links": [
+      "https://solucoes.receita.fazenda.gov.br/servicos/cnpjreva/cnpjreva_solicitacao.asp",
+      "https://servicos.receita.fazenda.gov.br/servicos/cpf/impressaocomprovante/consultaimpressao.asp",
+      "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "Renegociar": {
+    "texto": "Para consultar a renegociação de bens ou dívidas parceladas junto à Receita Federal, o procedimento deve ser feito principalmente através do portal e-CAC (Centro Virtual de Atendimento). \nPasso a passo para consulta no e-CAC\nAcesse o Portal e-CAC:\nVá para o site oficial da Receita Federal e acesse o Portal e-CAC (https://cav.receita.fazenda.gov.br/).\nAutentique-se:\nO acesso pode ser feito utilizando sua conta Gov.br (é necessário ter nível de segurança Prata ou Ouro) ou com um certificado digital (e-CPF ou e-CNPJ).\nNavegue até a seção de Pagamentos e Parcelamentos:\nApós o login, procure pela opção",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/negociacao-de-dividas",
+      "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+      "https://cav.receita.fazenda.gov.br/",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+      "https://www.sebrae.com.br/mei"
+    ]
+  },
+  "Isenção": {
+    "texto": "A isenção é o benefício legal que dispensa o contribuinte do pagamento de determinado tributo. No caso do Imposto de Renda, há isenção para pessoas com rendimentos abaixo do limite anual ou portadoras de doenças graves previstas em lei.",
+    "links": [
+      "https://www.gov.br/pt-br/servicos/solicitar-isencao-do-imposto-de-renda",
+      "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/perguntas-frequentes/imposto-de-renda/dirpf/isencao?",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "Dmed": {
+    "texto": "A declaração DMED (Declaração de Serviços Médicos e de Saúde) exige que pessoas jurídicas informem valores pagos a pessoas físicas ou jurídicas pelos serviços de saúde, conforme regras da Receita Federal.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/declaracoes-e-demonstrativos/dmed",
+      "https://www.gov.br/receitafederal/pt-br/servicos/entregar-declaracao-de-servicos-medicos-e-de-saude"
+    ]
+  },
+  "Custos": {
+    "texto": "Os custos operacionais do MEI incluem o pagamento mensal do DAS, que varia conforme a atividade exercida. Além disso, podem existir despesas com materiais, produtos, aluguel e outras necessidades do negócio que devem ser controladas através do relatório mensal de receitas.",
+    "links": [
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+      "https://www.sebrae.com.br/mei"
+    ]
+  },
+  "Isenções": {
+    "texto": "Orientação — Existem diversos tipos de isenções tributárias concedidas pela legislação brasileira, como para aposentados com doenças graves, entidades filantrópicas e operações específicas de consumo ou exportação..",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/perguntas-frequentes/isencao-para-compra-de-carro/isencao-para-compra-de-carro/direito/diferencas",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "Laudo": {
+    "texto": "O laudo médico é essencial para comprovar doenças graves que garantem isenção do Imposto de Renda sobre aposentadoria, pensão ou reforma. Ele deve incluir: nome do paciente, CID da doença, tratamentos, data do diagnóstico, e identificação do médico (nome, assinatura, carimbo e CRM) e estar no formato solicitado pela plataforma para evitar erros. Para pedir a isenção, reúna laudo e documentos e solicite Via administrativa pelo INSS (tempo limitado) ou órgão pagador ou Via judicial com advogado (isenção definitiva e possível restituição)",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/formularios/modelos/laudo-pericial.pdf/view",
+      "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/perguntas-frequentes/isencao-para-compra-de-carro/isencao-para-compra-de-carro/laudo/cnh-restrita",
+      "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/para-o-servidor/paginas/isencao-de-imposto-de-renda",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  ", Laudo": {
+    "texto": "O laudo médico é essencial para comprovar doenças graves que garantem isenção do Imposto de Renda sobre aposentadoria, pensão ou reforma. Ele deve incluir: nome do paciente, CID da doença, tratamentos, data do diagnóstico, e identificação do médico (nome, assinatura, carimbo e CRM) e estar no formato solicitado pela plataforma para evitar erros. Para pedir a isenção, reúna laudo e documentos e solicite Via administrativa pelo INSS (tempo limitado) ou órgão pagador ou Via judicial com advogado (isenção definitiva e possível restituição)",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/formularios/modelos/laudo-pericial.pdf/view",
+      "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/perguntas-frequentes/isencao-para-compra-de-carro/isencao-para-compra-de-carro/laudo/cnh-restrita",
+      "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/para-o-servidor/paginas/isencao-de-imposto-de-renda",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "Recurso": {
+    "texto": "O contribuinte pode apresentar recurso administrativo contra autuações, indeferimentos de isenção ou outras decisões da Receita Federal. Os recursos são protocolados via e-CAC, na seção de Processos Digitais, dentro do prazo estipulado na notificação.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/processos/recursos",
+      "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/perguntas-frequentes/isencao-para-compra-de-carro/isencao-para-compra-de-carro/recurso/como-funciona-o-julgamento-dos",
+      "https://cav.receita.fazenda.gov.br/",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "como faço pra trocar de categoria, MEI": {
+    "texto": "Atenção — Categoria “como faço pra trocar de categoria, MEI” cadastrada, porém ainda sem conteúdo. Inclua um resumo orientativo e pelo menos um link oficial (gov.br/Receita ou Sebrae).",
+    "links": []
+  },
+  "impedimentos": {
+    "texto": "Impedimentos cadastrais ou fiscais podem ocorrer por irregularidades no CPF, débitos tributários em aberto ou pendências na entrega de declarações obrigatórias. A regularização é feita através do portal e-CAC ou nos canais de atendimento da Receita Federal.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/perguntas-frequentes/beneficios-fiscais/beneficios-fiscais/impedimentos",
+      "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "o que devo fazer, impedimentos": {
+    "texto": "Atenção — Categoria “o que devo fazer, impedimentos” cadastrada, porém ainda sem conteúdo. Inclua um resumo orientativo e pelo menos um link oficial (gov.br/Receita ou Sebrae).",
+    "links": []
+  },
+  "FGTS": {
+    "texto": "Orientação — O FGTS (Fundo de Garantia do Tempo de Serviço) é um direito do trabalhador com carteira assinada. O valor é depositado mensalmente pelo empregador e pode ser sacado em situações como demissão sem justa causa, aposentadoria ou compra do primeiro imóvel..",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.gov.br/pt-br/servicos/consultar-debitos-inscritos-em-divida-ativa-da-uniao",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+      "https://www.sebrae.com.br/mei"
+    ]
+  },
+  "Plano": {
+    "texto": "Planos de regularização e parcelamento são disponibilizados pela Receita Federal e pela PGFN para facilitar o pagamento de débitos tributários. As condições variam conforme o tipo de dívida e o programa vigente, podendo chegar a 60 parcelas ou mais.",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/parcelamento",
+      "https://www.gov.br/ans/pt-br/assuntos/contratacao-e-troca-de-plano/dicas-de-como-escolher-um-plano-de-saude-1/formas-de-contratacao-de-planos-de-saude-1/planos-coletivos-empresariais-contratados-por-empresario-individual",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+      "https://www.sebrae.com.br/mei"
+    ]
+  },
+  "financiamento": {
+    "texto": "Orientação — O financiamento pode ser solicitado em instituições financeiras públicas ou privadas, como Caixa Econômica Federal e Banco do Brasil. Existem linhas de crédito específicas para pessoa física, MEI e empresas, com condições diferenciadas de juros e prazos de pagamento..",
+    "links": [
+      "https://www.caixa.gov.br/voce/habitacao/financiamento-de-imoveis/Paginas/default.aspx?utm_source=chatgpt.com",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+      "https://www.sebrae.com.br/mei"
+    ]
+  },
+  "irpf": {
+    "texto": "Orientação — O IRPF (Imposto de renda de Pessoa Física) trata-se de um tributo federal sobre os rendimentos de um cidadão comum, sendo obrigatório a pessoas que tiveram rendimentos tributáveis acima de um certo valor que varia com o passar dos anos, investidores da bolsa de valores, vendedores/compradores de bens ou direitos dentre outras categorias que podem ser melhor avaliadas no site da Receita Federal. Caso sua dúvida seja se deve ou não declarar o imposto de renda, as três principais formas de ser isento desse tributo são não se enquadrar em nenhuma das situações citadas no site, constar como dependente na declaração de outra pessoa que tenha informado seus rendimentos ou, por fim ter seus bens e direitos declarados pelo cônjuge ou companheiro que não ultrapasse os limites estipulados em 31 de Dezembro..",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda",
+      "https://www.gov.br/pt-br/servicos/retificar-lancamento-de-imposto-de-renda",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/quem"
+    ]
+  },
+  "retificação": {
+    "texto": "A retificação da declaração do Imposto de Renda pode ser feita para corrigir erros ou omissões. O contribuinte deve utilizar o mesmo programa da declaração original e marcar a opção 'Declaração Retificadora'.",
+    "links": [
+      "https://www8.receita.fazenda.gov.br/simplesnacional/aplicacoes/atbcn/SDASN_Retificadora/Default.aspx",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "extrato": {
+    "texto": "O extrato do Imposto de Renda permite consultar informações sobre declarações entregues, pendências e restituições. Está disponível no e-CAC, na opção 'Meu Imposto de Renda (Extrato da DIRPF)'.",
+    "links": [
+      "https://www.gov.br/pt-br/servicos/consultar-dividas-e-pendencias-fiscais",
+      "https://servicos.receita.fazenda.gov.br/Servicos/CPF/ConsultaSituacao/ConsultaPublica.asp",
+      "https://www.gov.br/receitafederal/pt-br",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "darf": {
+    "texto": "O DARF é a guia usada para pagar tributos federais e pode ser emitida pelo site da Receita Federal.",
+    "links": [
+      "https://www.gov.br/pt-br/servicos/emitir-darf-para-pagamento-de-tributos-federais",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda"
+    ]
+  },
+  "simples": {
+    "texto": "O Simples Nacional é um regime tributário simplificado criado para micro e pequenas empresas. Ele unifica o pagamento de vários impostos em uma única guia mensal, facilitando a gestão tributária do negócio.",
+    "links": [
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-o-mei/simples-nacional",
+      "https://www.gov.br/pt-br/servicos/optar-pelo-simples-nacional",
+      "https://www.gov.br/receitafederal/pt-br/assuntos/simples-nacional",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+      "https://www.sebrae.com.br/mei"
+    ]
+  },
+  "mei": {
+    "texto": "Orientação — MEI é a sigla para Microempreendedor Individual, uma pessoa autônoma que se formaliza como um pequeno empresário. A formalização oferece benefícios como ter um CNPJ, acesso a serviços bancários, direitos previdenciários (como aposentadoria, auxílio-doença e salário-maternidade) e obrigações fiscais simplificadas através do pagamento de uma guia mensal (DAS)..",
+    "links": [
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes/o-que-e-o-microempreendedor-individual-mei/o-que-e-mei",
+      "https://www.sebrae.com.br/mei"
+    ]
+  },
+  "contratação": {
+    "texto": "um MEI pode contratar no máximo 1 funcionário com remuneração até o limite do salário mínimo ou o piso da categoria, devendo recolher INSS, FGTS e outros encargos trabalhistas conforme a legislação.",
+    "links": [
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/contratacao-de-empregado",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+      "https://www.sebrae.com.br/mei",
+      "https://www.gov.br/trabalho-e-emprego"
+    ]
+  },
+  "auxílio,etc.),previdencia": {
+    "texto": "Atenção — Categoria “auxílio,etc.),previdencia” cadastrada, porém ainda sem conteúdo. Inclua um resumo orientativo e pelo menos um link oficial (gov.br/Receita ou Sebrae).",
+    "links": []
+  },
+  "encerramento": {
+    "texto": "Para fechar o MEI, o processo é gratuito, simples e feito online através do Portal do Empreendedor do Governo Federal. No entanto, é importante regularizar algumas pendências antes ou durante o processo.",
+    "links": [
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/mei/baixa-mei",
+      "https://www.gov.br/pt-br/servicos/portal-do-empreendedor-quero-deixar-de-ser-mei",
+      "https://www.gov.br/receitafederal/pt-br",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/mei/baixa"
+    ]
+  },
+  "contribuição": {
+    "texto": "Se o MEI não pagar a contribuição mensal, ele perde direitos previdenciários, acumula multas e juros, e pode ter o CNPJ cancelado após longos períodos de inadimplência. É possível renegociar ou parcelar os débitos diretamente pelo Portal do Simples Nacional ou pelo e-CAC da Receita Federal.",
+    "links": [
+      "https://sebrae.com.br/sites/PortalSebrae/artigos/atraso-no-pagamento-do-das-mei-e-consequencias-para-o-empreendedor,66bfd7fbd25f2810VgnVCM100000d701210aRCRD",
+      "https://www.gov.br/pt-br/servicos/parcelar-imposto-mei",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+      "https://www.sebrae.com.br/mei"
+    ]
+  },
+  "atividades": {
+    "texto": "Um MEI pode registrar atividades enquadradas na lista oficial de ocupações permitidas, que inclui comércio, indústria e prestação de serviços, desde que o faturamento anual não ultrapasse o limite legal e a atividade seja permitida para MEI pelo governo.",
+    "links": [
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/quero-ser-mei/atividades-permitidas",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/atividades-permitidas"
+    ]
+  },
+  "regularização": {
+    "texto": "Orientação — Os Microempreendedores Individuais que possuem débitos em Dívida Ativa com a União podem aproveitar os benefícios dos acordos de parcelamentos, como: desconto, entrada facilitada e prazo ampliado para pagamento. As modalidades de acordos disponíveis para o MEI, são: Transação de Pequeno Valor do Simples Nacional e Programa de Regularização do Simples Nacional, e são exclusivas para regularização de débitos com o Simples Nacional..",
+    "links": [
+      "https://www.gov.br/receitafederal/pt-br/assuntos/regularizacao",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/regularize",
+      "https://www.gov.br/pt-br/servicos/atualizar-cadastro-de-pessoas-fisicas",
+      "https://cav.receita.fazenda.gov.br/autenticacao/login",
+      "https://www.gov.br/receitafederal/pt-br/servicos/regularizacao-de-impostos"
+    ]
+  },
+  "orçamento/faturamento/mei": {
+    "texto": "Orientação — Qual é o limite de faturamento anual permitido para o MEI.",
+    "links": [
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor"
+    ]
+  },
+  "contratacao": {
+    "texto": "um MEI pode contratar no máximo 1 funcionário com remuneração até o limite do salário mínimo ou o piso da categoria, devendo recolher INSS, FGTS e outros encargos trabalhistas conforme a legislação.",
+    "links": [
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/contratacao-de-empregado",
+      "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+      "https://www.sebrae.com.br/mei",
+      "https://www.gov.br/trabalho-e-emprego"
+    ]
+  }
+}
